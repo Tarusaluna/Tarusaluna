@@ -1,3 +1,18 @@
+
+<div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gismii&label=Profile%20views&color=0e75b6&style=flat" alt="Gismii" /> </p>
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gismii&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gismii&layout=compact)](https://github.com/Gismii/github-readme-stats)
+
+  </div>
+  
+
+  
+
  <div style="display: inline_block"><br>
 
 
@@ -54,4 +69,22 @@
 
 <br />
 <br />
+
+
+
+  
+
+
+  
+
+
+
+  
+  
+
+  
+
+  
+
+
 
