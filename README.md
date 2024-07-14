@@ -1,4 +1,4 @@
-## Bom ver você aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Fico feliz em vê-lo por aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Eu sou Tarusa Luna, conhecida como Luna. Sou estudante e entusiasta de tecnologia, sempre aberta a colaborar em projetos e ideias inovadoras/disruptivas. Sinta-se à vontade para se conectar comigo aqui.
 
